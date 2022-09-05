@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H++jJrmxd75mn5pRL4TJWBxuHe2JpmVdvkRbGC1aTC9SXfloZYrvyUCG0CP8C7LnTZWHSPw8Auw/dH2XP1bpSw==",
+  "success": true,
+  "projectFilePath": "/home/vilius/OneDrive/Gymnasium/2g/Programming/C#/GitHub/CSharp/0_HelloWorld/0_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/vilius/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
