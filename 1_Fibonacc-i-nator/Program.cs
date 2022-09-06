@@ -4,9 +4,9 @@ uint num2 = 0;
 uint fibNum;
 
 List<string> fibonacci = new List<string>();
-fibonacci.Add("0: " + num1);
+fibonacci.Add("1: " + num1);
 
-uint sequence = 1;
+uint sequence = 2;
 
 for(;;)
 {
@@ -21,8 +21,8 @@ for(;;)
     else
         break;
 }
-Console.WriteLine("The 13th fibonacci degit is: (Starting counting from 0)");
-Console.WriteLine(fibonacci[13]);
+Console.WriteLine("The 13th fibonacci degit is:");
+Console.WriteLine(fibonacci[12]);
 Console.ReadKey();
 
 Console.WriteLine("Fibonacci list from 0 to 100:");
