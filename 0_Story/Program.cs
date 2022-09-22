@@ -44,6 +44,8 @@ switch (input)
 
 #endregion
 
+#region strings and int's i wanted to initialize for future use
+
 //Player stats
 int maxHP = 100;
 int currentHP = 80;
@@ -51,6 +53,8 @@ int ATK = 10;
 int stamina = 70;
 string specialSkill = "?";
 List<string> party = new List<string>();
+
+#endregion
 
 #region chapter 0
 
@@ -93,6 +97,8 @@ Console.WriteLine("You head out of the in, heading for the nearby village.");
 
 #endregion
 
+#region stats and end card thingy
+
 Console.ForegroundColor = ConsoleColor.Green;
 Console.BackgroundColor = ConsoleColor.White;
 Console.WriteLine("END OF CHAPTER 0: Introductions");
@@ -114,6 +120,8 @@ Console.ReadKey();
 Console.ForegroundColor = ConsoleColor.Green;
 Console.Title = "Chapter 1: Billsburg";
 Console.WriteLine("STARING CHAPTER 1: Billsburg");
+
+#endregion
 
 #region food cool
 
@@ -176,7 +184,7 @@ do
     }
 } while (valid == false);
 
-//ran out of fucks to give, story mostly ends here, its just mostly placeholders and cool code forward, good luck
+//ran out of f*cks to give, story mostly ends here, its just mostly placeholders and cool code forward, good luck
 Console.WriteLine("Placeholder text eating eating");
 Thread.Sleep(100);
 Console.ForegroundColor = ConsoleColor.Magenta;
@@ -193,12 +201,16 @@ Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("ashi simping over big strong woman blah blah placeholder text");
 Console.ReadKey();
 Console.ForegroundColor = ConsoleColor.Magenta;
-Console.WriteLine("I would love to join your party blah blah blah");
+Console.WriteLine("I would love to join your party blah blah blah, backstory ensues");
 party.Add("Dehya");
 //what an amazing reveal, best story telling of this year
 Console.WriteLine("I'm Dehya btw.");
+//jeg mangler desperat søvn
+//I should probably rewrite this, but i ain't gonna
 
 #endregion
+
+#region stats and story card things
 
 Console.ForegroundColor = ConsoleColor.Green;
 Console.BackgroundColor = ConsoleColor.White;
@@ -217,4 +229,5 @@ Console.ForegroundColor = ConsoleColor.Green;
 Console.Title = "Chapter 2: Billsburging continues";
 Console.WriteLine("STARING CHAPTER 2: Billsburging continues");
 
-//jeg mangler desperat søvn
+#endregion
+
