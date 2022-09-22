@@ -1,23 +1,24 @@
 ﻿//Fibonachi sounds like a pasta name, cool
-//ulong lets us go higher up
+//Please read my commits and comments, it's the only thing entertaining in this entire project
+//Using ulong here, since unasigned 64 bit integers can store more numbers for us in this situation
 ulong num1 = 1;
 ulong num2 = 0;
 ulong fibNum;
 
-//We make a list
-List<string> fibonacci = new List<string>();
-fibonacci.Add("1: " + num1);
+//We make a dictionary, hope this gets me some brownie points ;)
+var fibonacci = new Dictionary<int, ulong>();
 
-//Iterations
-uint i = 2;
+fibonacci.Add(1, num1);
+
+int i = 2;
 
 for(;;)
 {
-    //Run upto iteration 69 of fibonacci
+    //Run upto iteration 69 (nice) of fibonacci
     if (i < 70)
     {
     fibNum = num1 + num2;
-    fibonacci.Add(i + ": " + fibNum);
+    fibonacci.Add(i, fibNum);
     num2 = num1;
     num1 = fibNum;
     i++;
@@ -26,10 +27,16 @@ for(;;)
         break;
 }
 Console.WriteLine("The 13th fibonacci degit is:");
-Console.WriteLine(fibonacci[12]);
+Console.WriteLine(fibonacci[13]);
 Console.ReadKey();
 
+/*Printing the fibonacci dictionary with the iteration first, making it so we can easily see which number it is, 
+and we can use the other numbers for future calculations without modifiyng*/
 Console.WriteLine("Fibonacci list from 0 to 69:");
-Thread.Sleep(500);
-fibonacci.ForEach(i=> Console.Write("{0}\n", i));
 Console.ReadKey();
+i = 1;
+foreach (var item in fibonacci)
+{
+    Console.WriteLine(i + ": " + fibonacci[i]);
+    i++;
+}
