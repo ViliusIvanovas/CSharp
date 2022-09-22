@@ -123,10 +123,10 @@ Console.WriteLine("STARING CHAPTER 1: Billsburg");
 
 #endregion
 
-#region food cool
+#region chapter 1
 
 Console.ForegroundColor = ConsoleColor.Blue;
-Console.WriteLine("Placeholder text");
+Console.WriteLine("Placeholder text, imagine there is a long friendship portion here about talking and stuff in the city their in");
 Console.ReadKey();
 Console.WriteLine("We should get something to eat");
 Console.ReadKey();
@@ -207,6 +207,7 @@ party.Add("Dehya");
 Console.WriteLine("I'm Dehya btw.");
 //jeg mangler desperat søvn
 //I should probably rewrite this, but i ain't gonna
+//It was around this point i aced my driving theory exam, it was also at this point i failed it, but still, i finally did it
 
 #endregion
 
@@ -231,3 +232,13 @@ Console.WriteLine("STARING CHAPTER 2: Billsburging continues");
 
 #endregion
 
+#region chapter 2
+
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("Imma be honest, i have nothing, i will make up some cool story later, or hope that Jesper enjoys this as much or more, if not then, well shit, sorry ig");
+Console.ReadKey();
+Console.WriteLine("Now that we have Dehya on our team, maybe it would be ok to try going exploring outside the city area?");
+Console.ReadKey();
+Console.WriteLine("Let's do it, let's go out and kill some slimes");
+
+#endregion
