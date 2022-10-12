@@ -1,0 +1,15 @@
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/1_Fibonacc-i-nator_test
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/1_Fibonacc-i-nator_test.deps.json
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/1_Fibonacc-i-nator_test.runtimeconfig.json
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/1_Fibonacc-i-nator_test.dll
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/ref/1_Fibonacc-i-nator_test.dll
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/bin/Debug/net6.0/1_Fibonacc-i-nator_test.pdb
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.csproj.AssemblyReference.cache
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.AssemblyInfoInputs.cache
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.AssemblyInfo.cs
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.csproj.CoreCompileInputs.cache
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.dll
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/ref/1_Fibonacc-i-nator_test.dll
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.pdb
+/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/obj/Debug/net6.0/1_Fibonacc-i-nator_test.genruntimeconfig.cache

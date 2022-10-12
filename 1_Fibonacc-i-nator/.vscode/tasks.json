@@ -4,10 +4,10 @@
         {
             "label": "build",
             "command": "dotnet",
-            "type": "shell",
+            "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/1_Basics.csproj",
+                "${workspaceFolder}/1_Fibonacc-i-nator_test.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -16,10 +16,10 @@
         {
             "label": "publish",
             "command": "dotnet",
-            "type": "shell",
+            "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/1_Basics.csproj",
+                "${workspaceFolder}/1_Fibonacc-i-nator_test.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -28,12 +28,12 @@
         {
             "label": "watch",
             "command": "dotnet",
-            "type": "shell",
+            "type": "process",
             "args": [
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/1_Basics.csproj"
+                "${workspaceFolder}/1_Fibonacc-i-nator_test.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

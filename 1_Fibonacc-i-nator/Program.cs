@@ -1,4 +1,6 @@
-﻿//Fibonachi sounds like a pasta name, cool
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+//Fibonachi sounds like a pasta name, cool
 //Please read my commits and comments, it's the only thing entertaining in this entire project
 //Using ulong here, since unasigned 64 bit integers can store more numbers for us in this situation
 ulong num1 = 1;
@@ -30,7 +32,7 @@ Console.WriteLine("The 13th fibonacci degit is:");
 Console.WriteLine(fibonacci[13]);
 Console.ReadKey();
 
-/*Printing the fibonacci dictionary with the iteration first, making it so we can easily see which number it is, 
+/*Printing the fibonacci dictionary with the iteration first, making it so we can easily see which number it is,
 and we can use the other numbers for future calculations without modifiyng*/
 Console.WriteLine("Fibonacci list from 0 to 69:");
 Console.ReadKey();

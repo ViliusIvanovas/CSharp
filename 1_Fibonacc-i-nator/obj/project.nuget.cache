@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dZpNx41+5Df5+W+P4X5hCILnRKqlytEFzFaC3jzvJV94s8NSzvNqdnLO8TqJ9gXKL4IH8lCQb+6bHQVzi1f3w==",
+  "success": true,
+  "projectFilePath": "/home/viliusi/OneDrive/Gymnasium/2g/Programming/C＃/GitHub/CSharp/1_Fibonacc-i-nator_test/1_Fibonacc-i-nator_test.csproj",
+  "expectedPackageFiles": [
+    "/home/viliusi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

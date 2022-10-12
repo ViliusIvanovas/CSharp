@@ -28,20 +28,19 @@ string input = Console.ReadLine();
 switch (input)
 {
     case "Yes":
-        Console.WriteLine("You're very determined, this merits a reward:");
+        Console.WriteLine("You're very determined, this merits a reward...");
         trait = "Determined participant";
         break;
     case "No":
         Console.WriteLine("Unwilling, though I think you'll over come it:");
         trait = "Unwilling participant";
-        Console.WriteLine("You unlock the trait \"Unwilling participant\"");
         break;
     default:
         Console.WriteLine("You're forcefully dragged into it anyway:");
         trait = "Forced participant";
         break;
 }
-
+Console.WriteLine("You unlock the trait: " + trait);
 #endregion
 
 #region strings and int's i wanted to initialize for future use
